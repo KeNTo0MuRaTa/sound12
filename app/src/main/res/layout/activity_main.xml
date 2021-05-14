@@ -43,7 +43,7 @@
         android:fontFamily="sans-serif-black"
         android:text="TAP!"
         android:textColor="#FFFDFD"
-        android:textColorHighlight="#CC5353"
+        android:textColorHighlight="#FFFFFF"
         android:textColorHint="#C86161"
         android:textColorLink="#FAFAFA"
         android:textSize="64sp"
